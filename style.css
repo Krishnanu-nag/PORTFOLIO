@@ -4,6 +4,7 @@ html{
 *{ 
     margin: 0px;
 }
+.social:hover{transform: scale(2,2);}
 .selct:hover{
     color:white;
 }
@@ -92,7 +93,7 @@ h3{
 
 .social{
     margin: 20px 0px;
-    transform: scale(2,2);
+    
 }
 
 
