@@ -4,6 +4,9 @@ html{
 *{ 
     margin: 0px;
 }
+.selct:hover{
+    color:white;
+}
  
 #img{
     width: 150px;
@@ -89,7 +92,9 @@ h3{
 
 .social{
     margin: 20px 0px;
+    transform: scale(2,2);
 }
+
 
 .resume{
     text-align: center;
