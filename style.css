@@ -6,7 +6,7 @@ html{
 }
 .social:hover{transform: scale(2,2);}
 .selct:hover{
-    color:white;
+    color:#fff;
 }
  
 #img{
